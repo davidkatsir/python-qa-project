@@ -1,4 +1,4 @@
-a = int(input())
+a = int(input("Please Enter a number: "))
 
 print(5 < a <= 19)
 
